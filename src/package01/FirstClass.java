@@ -7,6 +7,8 @@ public class FirstClass {
 		System.out.println("Ilk commit from locak repository");
 		System.out.println("ikinci commit from locak repository");
 		
+		System.out.println("yeni branch olusturdum ve adi: feature");
+		
 	}
 
 }
